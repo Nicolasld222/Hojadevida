@@ -1,0 +1,11 @@
+body{
+    background: #1F1C2C;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #928DAB, #1F1C2C);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #928DAB, #ffffff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.perfil-img {
+    max-width: 10%;
+    height: auto;
+    margin-left: 15%; /* Ajusta el valor para mover la imagen hacia la derecha */
+}
